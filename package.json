@@ -21,9 +21,9 @@
   },
   "devDependencies": {
     "run-browser": "git://github.com/Raynos/run-browser",
-    "tap-dot": "^0.2.1",
-    "tap-spec": "^0.1.8",
-    "tape": "^2.12.3"
+    "tap-dot": "^1.0.5",
+    "tap-spec": "^4.1.1",
+    "tape": "^4.6.2"
   },
   "licenses": [
     {
